@@ -1,0 +1,10 @@
+c:\users\matan@matan\documents\visual studio 2015\Projects\prankxd\prankxd\bin\Debug\prankxd.exe.config
+c:\users\matan@matan\documents\visual studio 2015\Projects\prankxd\prankxd\bin\Debug\prankxd.exe
+c:\users\matan@matan\documents\visual studio 2015\Projects\prankxd\prankxd\bin\Debug\prankxd.pdb
+c:\users\matan@matan\documents\visual studio 2015\Projects\prankxd\prankxd\obj\Debug\prankxd.csprojResolveAssemblyReference.cache
+c:\users\matan@matan\documents\visual studio 2015\Projects\prankxd\prankxd\obj\Debug\prankxd.Form1.resources
+c:\users\matan@matan\documents\visual studio 2015\Projects\prankxd\prankxd\obj\Debug\prankxd.Properties.Resources.resources
+c:\users\matan@matan\documents\visual studio 2015\Projects\prankxd\prankxd\obj\Debug\prankxd.csproj.GenerateResource.Cache
+c:\users\matan@matan\documents\visual studio 2015\Projects\prankxd\prankxd\obj\Debug\prankxd.exe
+c:\users\matan@matan\documents\visual studio 2015\Projects\prankxd\prankxd\obj\Debug\prankxd.pdb
+c:\users\matan@matan\documents\visual studio 2015\Projects\prankxd\prankxd\obj\Debug\prankxd.frmgame.resources
