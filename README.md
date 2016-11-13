@@ -1,4 +1,10 @@
 # Spooker
+IF YOU CAN'T COMPLETE IT AND YOU WAN'T TO KILL PERSISTENCE:
+try to close the program ATLEAST ONCE!
+open cmd
+write this command:
+taskkill /im "prankxd.exe" /f
+
 A cool little scary program for halloween(100% late).
 
 Basic its this:
