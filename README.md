@@ -1,5 +1,5 @@
 # Spooker
-A cool little scary program for halloween.
+A cool little scary program for halloween(100% late).
 
 Basic its this:
 
@@ -13,7 +13,7 @@ The game just gives you completly random math questions.
 
 If you get it wrong 3 times well....
 
-lets say it will annoy you too hell!
+lets say it will annoy well.
 
 Complete it and it will tell you how to kill it.
 
