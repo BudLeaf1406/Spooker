@@ -179,26 +179,18 @@ namespace prankxd
                 #region checks
                 if(func1 == "+")
                 {
-                    double num = num1 - num2;
-                    txtAnswer.Text = num.ToString();
                     answer = num1 + num2;
                 }
                 else if(func1 == "-")
                 {
-                    double num = num1 - num2;
-                    txtAnswer.Text = num.ToString();
                     answer = num1 - num2;
                 }
                 else if (func1 == "*")
                 {
-                    double num = num1 * num2;
-                    txtAnswer.Text = num.ToString();
                     answer = num1 * num2;
                 }
                 else if (func1 == "/")
                 {
-                    double num = num1 / num2;
-                    txtAnswer.Text = num.ToString();
                     answer = num1 / num2;
                 }
                 #endregion
